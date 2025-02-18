@@ -50,6 +50,10 @@
 
 ![Alt text](public/images/109.png)
 
+## API 程式碼位置
+
+[./src/api/mockServer.ts](https://github.com/Fightsea/viewsonicfe/blob/34ae0383b7fd8d9ca393181782200f808db36955/src/api/mockServer.ts)
+
 ## API
 
 ### GET /api/classes
